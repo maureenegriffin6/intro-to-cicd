@@ -1,5 +1,5 @@
 function sayHi(name) {
-  return `Hello ${name}`
+  return `Hi ${name}`
 }
 
 //Test add comment 2
