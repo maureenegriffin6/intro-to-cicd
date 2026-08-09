@@ -2,6 +2,6 @@ function sayHi(name) {
   return `Hello there ${name}`
 }
 
-//Test add comment
+//Test add comment 2
 
 module.exports = sayHi
